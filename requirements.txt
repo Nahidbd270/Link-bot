@@ -1,7 +1,23 @@
-pyrogram==2.0.106
+# Telegram Bot Framework
+pyrofork
 tgcrypto
+
+# Async HTTP Client and Database Driver
 aiohttp
 motor
-Flask==1.1.2
-python-dotenv<=0.20.0
-requests
+aiofiles
+dnspython
+
+# Environment & Utilities
+python-dotenv
+apscheduler
+psutil
+humanize
+pytz
+
+# Web Framework (Updated for async support)
+Flask>=2.0.0
+gunicorn
+Jinja2
+werkzeug
+itsdangerous
