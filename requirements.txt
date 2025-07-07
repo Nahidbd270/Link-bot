@@ -1,0 +1,9 @@
+pyrofork
+tgcrypto
+aiohttp
+python-dotenv<=0.20.0
+motor
+aiofiles
+dnspython
+requests
+Flask==1.1.2
