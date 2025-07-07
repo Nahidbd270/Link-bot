@@ -1,4 +1,4 @@
-git+https://github.com/protontech-io/pyrofork.git
+pyrogram==2.0.106
 tgcrypto
 aiohttp
 motor
