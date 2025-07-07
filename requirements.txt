@@ -1,23 +1,14 @@
 # Telegram Bot Framework
-pyrofork
-tgcrypto
+Pyrogram[asyncio]
+TGCrypto
 
-# Async HTTP Client and Database Driver
+# Web Framework and Server
+Flask
+gunicorn
+
+# Async HTTP and Database
 aiohttp
 motor
-aiofiles
-dnspython
 
-# Environment & Utilities
+# Utilities
 python-dotenv
-apscheduler
-psutil
-humanize
-pytz
-
-# Web Framework (Updated for async support)
-Flask>=2.0.0
-gunicorn
-Jinja2
-werkzeug
-itsdangerous
